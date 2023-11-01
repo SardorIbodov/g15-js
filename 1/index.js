@@ -79,3 +79,53 @@
 // son = son * 10; // son = 10 + 10
 // son = son / 10; // son = 10 + 10
 // console.log(son);
+
+// let a = 12;
+// a = a * 2;
+// let b = 13;
+// b = b * 3;
+// console.log(a);
+// console.log(b);
+
+//! let, const, var
+// let a = 10;
+// a = 15;
+// console.log(a);
+
+// var a = 10;
+// a = 15;
+// console.log(a);
+
+// const a = 10;
+// a = 15;
+// console.log(a);
+// console.log(1);
+
+// var name = "John";
+// var name = "Sarah";
+// console.log(name);
+
+// let name = "John";
+// let name = "Sarah";
+// console.log(name);
+
+// const a = 10;
+// const a = 11;
+
+//! Primitive vs Non-primitive
+// let a = 10;
+// let b = "Hi";
+// let c = a;
+// c = c + 1;
+// console.log("a", a);
+// console.log("b", b);
+// console.log("c", c);
+
+// let a = 10;
+// let b = "Hi";
+// let c = {name: "Usmon"};
+// let d = c;
+// d.name = "Nosir";
+// console.log(c);
+// let firstName = "Ilya";
+// alert(`Hi ${firstName}`);
